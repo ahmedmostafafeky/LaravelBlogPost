@@ -1,0 +1,22 @@
+body {
+    background-color: #fff;
+    color: #222222;
+    max-width: 600px;
+    margin: auto;
+    font-family: sans-serif;
+}
+
+p {
+    line-height: 1.6;
+}
+
+article  {
+    margin-bottom: 3rem;
+    padding-bottom: 3rem;
+    border-bottom: 1px solid #222222;
+}
+.category_h {
+    text-align: center;
+    margin: 1.5rem;
+    padding: 1.5rem;
+}
